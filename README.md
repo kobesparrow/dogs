@@ -13,7 +13,7 @@ Dog Party finished project by Mark R. Collins
 #### Biggest Win
 Day three of the project was a "near tears" experience as I spent the day mired in self-doubt without direction. While I stress ate 25 chicken wings I sketched psuedo code on a greasy napkin, came home and crushed it, rewriting the entire site before bedtime.
 
-#### Biggest Stuggle
+#### Biggest Struggle
 Vocabulary is a huge hurdle for me. I know what I want to do but am unfamiliar with the tags or declarations available to make it work. Likely this lexicon will come with practice and time.
 
 #### Assignment
